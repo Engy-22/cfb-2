@@ -1,0 +1,8 @@
+*.out
+2014
+do_ranking
+non-FBS.txt
+record?.txt
+oauth.ini
+plot.plt
+submitReddit.py

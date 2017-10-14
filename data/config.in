@@ -1,0 +1,14 @@
+[ Input ]
+recordsfile			= data/record.txt
+teamsfile			= data/teams.txt
+weeks               = 6
+
+[ Output ] 
+csvfile				= output/rankings.csv
+resultsfile			= output/rankings.txt
+log_freq            = 1000
+
+[ Advanced ] 
+max_iter            = 1000000
+tol                 = 1e-6
+shuffle_records     = true
