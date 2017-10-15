@@ -69,7 +69,7 @@ def doScraping(f,year,week):
 
     time.sleep(2)
 
-weeks = 6;
+weeks = 7;
 year = 2017;
 f = open("data/record.txt","w")
 for week in range(1,weeks+1):
