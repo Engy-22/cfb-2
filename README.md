@@ -15,6 +15,7 @@ teams. It just uses wins and losses.
 See [`docs/about.md`](docs/about.md) for more information on how to
 compile the program and how the algorithm works. 
 
+## Current rankings
 
 After 7 weeks of play in the 2017-2018 season:
 
