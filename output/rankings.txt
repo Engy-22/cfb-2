@@ -1,0 +1,27 @@
+ **Rank** |  | **Team**                  | **Record** | **Score**  
+----------|--|---------------------------|------------|------------
+1 | ![Clemson](logos/clemson.png) | Clemson                   |  6-0       |   0.660281
+2 | ![Alabama](logos/alabama.png) | Alabama                   |  6-0       |   0.658990
+3 | ![Penn State](logos/penn-st.png) | Penn State                |  6-0       |   0.654374
+4 | ![Georgia](logos/georgia.png) | Georgia                   |  6-0       |   0.643268
+5 | ![Washington State](logos/washington-st.png) | Washington State          |  6-0       |   0.634279
+6 | ![San Diego State](logos/san-diego-st.png) | San Diego State           |  6-0       |   0.633303
+7 | ![Wisconsin](logos/wisconsin.png) | Wisconsin                 |  5-0       |   0.632940
+8 | ![Washington](logos/washington.png) | Washington                |  6-0       |   0.631693
+9 | ![Navy](logos/navy.png) | Navy                      |  5-0       |   0.630978
+10 | ![TCU](logos/tcu.png) | TCU                       |  5-0       |   0.620709
+11 | ![UCF](logos/ucf.png) | UCF                       |  4-0       |   0.618785
+12 | ![USC](logos/southern-california.png) | USC                       |  5-1       |   0.615849
+13 | ![Notre Dame](logos/notre-dame.png) | Notre Dame                |  5-1       |   0.611020
+14 | ![Ohio State](logos/ohio-st.png) | Ohio State                |  5-1       |   0.609660
+15 | ![South Florida](logos/south-fla.png) | South Florida             |  5-0       |   0.603718
+16 | ![Miami (FL)](logos/miami-fl.png) | Miami (FL)                |  4-0       |   0.596231
+17 | ![North Carolina State](logos/north-carolina-st.png) | North Carolina State      |  5-1       |   0.594612
+18 | ![Michigan State](logos/michigan-st.png) | Michigan State            |  4-1       |   0.593930
+19 | ![Michigan](logos/michigan.png) | Michigan                  |  4-1       |   0.590256
+20 | ![Kentucky](logos/kentucky.png) |  Kentucky                  |  5-1       |   0.589251
+21 | ![Houston](logos/houston.png) | Houston                   |  4-1       |   0.588445
+22 | ![Oklahoma State](logos/oklahoma-st.png) | Oklahoma State            |  4-1       |   0.587536
+23 | ![Auburn](logos/auburn.png) | Auburn                    |  5-1       |   0.586956
+24 | ![Virginia Tech](logos/virginia-tech.png) | Virginia Tech             |  5-1       |   0.586676
+25 | ![Oklahoma](logos/oklahoma.png) | Oklahoma                  |  4-1       |   0.581508
