@@ -12,7 +12,7 @@ teams. It just uses wins and losses.
   (see below).  Strength of schedule is built in, because winning against a team
   ranked higher in an iteration moves your team up.
 
-See `[docs/about.md](docs/about.md)` for more information on how to
+See [`docs/about.md`](docs/about.md) for more information on how to
 compile the program and how the algorithm works. 
 
 
