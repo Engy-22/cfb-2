@@ -57,10 +57,10 @@ poll:
 27 | ![Virginia Tech](logos/virginia-tech.png) | Virginia Tech | 5-1        |  0.575602 | 14 | 13
 33 | ![LSU](logos/lsu.png) |  LSU               |  5-2       |  0.556034 | 24 | 9
 34 | ![Auburn](logos/auburn.png) |  Auburn      |  5-2       |  0.554768 | 21 | 13
-49 | ![West Virginia](logos/west-va.png) | West Virginia | 4-2 | 0.534089 | 23 | 16
+49 | ![West Virginia](logos/west-virginia.png) | West Virginia | 4-2 | 0.534089 | 23 | 16
 
 Teams most over-ranked by AP:
-![West Virginia](logos/west-va.png) ![Auburn](logos/auburn.png) ![Virginia Tech](logos/virginia-tech.png) ![Oklahoma](logos/oklahoma.png) ![Oklahoma State](logos/oklahoma-st.png) ![LSU](logos/lsu.png)
+![West Virginia](logos/west-virgnia.png) ![Auburn](logos/auburn.png) ![Virginia Tech](logos/virginia-tech.png) ![Oklahoma](logos/oklahoma.png) ![Oklahoma State](logos/oklahoma-st.png) ![LSU](logos/lsu.png)
 
 Teams most under-ranked by AP:
 ![Navy](logos/navy.png) ![Marshall](logos/marshall.png) ![UCF](logos/ucf.png) ![San Diego State](logos/san-diego-st.png) ![Michigan State](logos/michigan-st.png)
