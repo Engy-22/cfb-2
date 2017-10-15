@@ -60,9 +60,11 @@ poll:
 49 | ![West Virginia](logos/west-virginia.png) | West Virginia | 4-2 | 0.534089 | 23 | 16
 
 Teams most over-ranked by AP:
-![West Virginia](logos/west-virgnia.png) ![Auburn](logos/auburn.png) ![Virginia Tech](logos/virginia-tech.png) ![Oklahoma](logos/oklahoma.png) ![Oklahoma State](logos/oklahoma-st.png) ![LSU](logos/lsu.png)
+
+![West Virginia](logos/west-virginia.png) ![Auburn](logos/auburn.png) ![Virginia Tech](logos/virginia-tech.png) ![Oklahoma](logos/oklahoma.png) ![Oklahoma State](logos/oklahoma-st.png) ![LSU](logos/lsu.png)
 
 Teams most under-ranked by AP:
+
 ![Navy](logos/navy.png) ![Marshall](logos/marshall.png) ![UCF](logos/ucf.png) ![San Diego State](logos/san-diego-st.png) ![Michigan State](logos/michigan-st.png)
 
 *Note*: These results do not include the Akron-W. Michigan game, yet to be played on October 15, 2017.
