@@ -39,7 +39,7 @@ teams. It just uses wins and losses.
 
 * Preaseason rankings can bias a poll's effectiveness. To overcome
   this, this algorithm uses randomly generated preaseason rankings. 
-* In most polls a recent win tends to be counted more favorably than
+* In most polls a recent win or loss tends to be counted more strongly than
   earlier wins. This algorithm randomly shuffles the records of all
   games in order to alleviate this problem.
 * Only wins and losses are counted in the algorithm
