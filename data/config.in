@@ -1,7 +1,7 @@
 [ Input ]
 recordsfile			= data/record.txt
 teamsfile			= data/teams.txt
-weeks               = 7
+weeks               = 8
 
 [ Output ] 
 csvfile				= output/rankings.csv
