@@ -1,27 +1,27 @@
  **Rank** |  |**Team**                  | **Record** | **Score**  
 ----------|--|---------------------------|------------|------------
-1         | ![Alabama](logos/alabama.png) | Alabama                   |  8-0       |   0.651301
-2         | ![Penn State](logos/penn-st.png) | Penn State                |  7-0       |   0.635612
-3         | ![Wisconsin](logos/wisconsin.png) | Wisconsin                 |  7-0       |   0.632975
-4         | ![Georgia](logos/georgia.png) | Georgia                   |  7-0       |   0.623330
-5         | ![TCU](logos/tcu.png) | TCU                       |  7-0       |   0.622111
-6         | ![UCF](logos/ucf.png) | UCF                       |  6-0       |   0.620208
-7         | ![South Florida](logos/south-fla.png) | South Florida             |  7-0       |   0.609341
-8         | ![Miami (FL)](logos/miami-fl.png) | Miami (FL)                |  6-0       |   0.607455
-9         | ![Clemson](logos/clemson.png) | Clemson                   |  6-1       |   0.603856
-10        | ![Notre Dame](logos/notre-dame.png) | Notre Dame                |  6-1       |   0.603665
-11        | ![Michigan State](logos/michigan-st.png) | Michigan State            |  6-1       |   0.603219
-12        | ![Ohio State](logos/ohio-st.png) | Ohio State                |  6-1       |   0.600581
-13        | ![Washington State](logos/washington-st.png) | Washington State          |  7-1       |   0.598082
-14        | ![Oklahoma State](logos/oklahoma-st.png) | Oklahoma State            |  6-1       |   0.596902
-15        | ![Oklahoma](logos/oklahoma.png) | Oklahoma                  |  6-1       |   0.596833
-16        | ![Memphis](logos/memphis.png) | Memphis                   |  6-1       |   0.590409
-17        | ![Marshall](logos/marshall.png) | Marshall                  |  6-1       |   0.589599
-18        | ![North Carolina State](logos/north-carolina-st.png) | North Carolina State      |  6-1       |   0.588258
-19        | ![USC](logos/southern-california.png) | USC                       |  6-2       |   0.587987
-20        | ![Washington](logos/washington.png) | Washington                |  6-1       |   0.584834
-21        | ![Virginia Tech](logos/virginia-tech.png) | Virginia Tech             |  6-1       |   0.581919
-22        | ![Toledo](logos/toledo.png) | Toledo                    |  6-1       |   0.579632
-23        | ![Michigan](logos/michigan.png) | Michigan                  |  5-2       |   0.570239
-24        | ![Stanford](logos/stanford.png) | Stanford                  |  5-2       |   0.570150
-25        | ![Boise State](logos/boise-st.png) | Boise State               |  5-2       |   0.570124
+1         | ![Alabama](logos/alabama.png) | Alabama                   |  8-0       |   0.633952
+2         | ![Wisconsin](logos/wisconsin.png) | Wisconsin                 |  8-0       |   0.632831
+3         | ![Georgia](logos/georgia.png) | Georgia                   |  8-0       |   0.624341
+4         | ![Notre Dame](logos/notre-dame.png) | Notre Dame                |  7-1       |   0.609672
+5         | ![Penn State](logos/penn-st.png) | Penn State                |  7-1       |   0.609238
+6         | ![UCF](logos/ucf.png) | UCF                       |  7-0       |   0.609075
+7         | ![Ohio State](logos/ohio-st.png) | Ohio State                |  7-1       |   0.608394
+8         | ![Clemson](logos/clemson.png) | Clemson                   |  7-1       |   0.608058
+9         | ![Miami (FL)](logos/miami-fl.png) | Miami (FL)                |  7-0       |   0.606711
+10        | ![Oklahoma](logos/oklahoma.png) | Oklahoma                  |  7-1       |   0.601807
+11        | ![Oklahoma State](logos/oklahoma-st.png) | Oklahoma State            |  7-1       |   0.601107
+12        | ![TCU](logos/tcu.png) | TCU                       |  7-1       |   0.594063
+13        | ![Memphis](logos/memphis.png) | Memphis                   |  7-1       |   0.593829
+14        | ![USC](logos/southern-california.png) | USC                       |  7-2       |   0.593425
+15        | ![Washington](logos/washington.png) | Washington                |  7-1       |   0.589408
+16        | ![Virginia Tech](logos/virginia-tech.png) | Virginia Tech             |  7-1       |   0.587807
+17        | ![Toledo](logos/toledo.png) | Toledo                    |  7-1       |   0.585008
+18        | ![South Florida](logos/south-fla.png) | South Florida             |  7-1       |   0.583016
+19        | ![Michigan State](logos/michigan-st.png) | Michigan State            |  6-2       |   0.578419
+20        | ![Boise State](logos/boise-st.png) | Boise State               |  6-2       |   0.577765
+21        | ![San Diego State](logos/san-diego-st.png) | San Diego State           |  7-2       |   0.576956
+22        | ![Michigan](logos/michigan.png) | Michigan                  |  6-2       |   0.575891
+23        | ![Stanford](logos/stanford.png) | Stanford                  |  6-2       |   0.575565
+24        | ![Washington State](logos/washington-st.png) | Washington State          |  7-2       |   0.573687
+25        | ![South Carolina](logos/south-carolina.png) | South Carolina            |  6-2       |   0.573186
