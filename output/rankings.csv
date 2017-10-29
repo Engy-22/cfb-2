@@ -1,129 +1,131 @@
 team,rank,score
-Alabama,1,0.633952
-Wisconsin,2,0.632831
-Georgia,3,0.624341
-Notre Dame,4,0.609672
-Penn State,5,0.609238
-UCF,6,0.609075
-Ohio State,7,0.608394
-Clemson,8,0.608058
-Miami (FL),9,0.606711
-Oklahoma,10,0.601807
-Oklahoma State,11,0.601107
-TCU,12,0.594063
-Memphis,13,0.593829
-USC,14,0.593425
-Washington,15,0.589408
-Virginia Tech,16,0.587807
-Toledo,17,0.585008
-South Florida,18,0.583016
-Michigan State,19,0.578419
-Boise State,20,0.577765
-San Diego State,21,0.576956
-Michigan,22,0.575891
-Stanford,23,0.575565
-Washington State,24,0.573687
-South Carolina,25,0.573186
-Marshall,26,0.565521
-North Carolina State,27,0.565289
-Mississippi State,28,0.564305
-Iowa State,29,0.564141
-LSU,30,0.561371
-Navy,31,0.561245
-SMU,32,0.560507
-Auburn,33,0.560043
-Arizona,34,0.558870
-Kentucky,35,0.558734
-Troy,36,0.556325
-Northern Illinois,37,0.555637
-Army,38,0.553269
-Iowa,39,0.550577
-Ohio,40,0.547074
-Houston,41,0.545970
-Northwestern,42,0.544746
-Florida International,43,0.538662
-Colorado State,44,0.538504
-Boston College,45,0.536847
-Texas A&M,46,0.534634
-UTSA,47,0.531823
-Wake Forest,48,0.530812
-Florida Atlantic,49,0.528452
-Western Michigan,50,0.527720
-Wyoming,51,0.527494
-Arkansas State,52,0.525771
-Virginia,53,0.525667
-Fresno State,54,0.525170
-West Virginia,55,0.524991
-Arizona State,56,0.520665
-UCLA,57,0.519870
-Nebraska,58,0.517716
-Oregon,59,0.517620
-North Texas,60,0.514424
-Western Kentucky,61,0.514311
-Colorado,62,0.514283
-Georgia Tech,63,0.513801
-Akron,64,0.513411
-Texas,65,0.513410
-Louisville,66,0.512733
-Appalachian State,67,0.508844
-Minnesota,68,0.507781
-Maryland,69,0.505392
-Florida,70,0.503175
-Texas Tech,71,0.503162
-Syracuse,72,0.500833
-Utah,73,0.498180
-Air Force,74,0.494983
-Central Michigan,75,0.494767
-Kansas State,76,0.489135
-Purdue,77,0.486395
-California,78,0.486012
-Pittsburgh,79,0.484773
-Utah State,80,0.480629
-Duke,81,0.477931
-Louisiana-Lafayette,82,0.475177
-New Mexico State,83,0.473680
-Florida State,84,0.473459
-Tulane,85,0.472300
-Arkansas,86,0.472000
-Tennessee,87,0.470424
-Indiana,88,0.469754
-Missouri,89,0.469380
-Vanderbilt,90,0.468390
-Rutgers,91,0.467923
-Ole Miss,92,0.467509
-New Mexico,93,0.465656
-Temple,94,0.463443
-Connecticut,95,0.461013
-South Alabama,96,0.460775
-Miami (OH),97,0.459787
-Idaho,98,0.458235
-Louisiana-Monroe,99,0.458152
-Hawaii,100,0.457540
-Illinois,101,0.454587
-Eastern Michigan,102,0.451936
-Buffalo,103,0.451409
-Southern Miss,104,0.443764
-Cincinnati,105,0.441591
-Tulsa,106,0.439989
-Kent State,107,0.437334
-Old Dominion,108,0.431840
-Georgia State,109,0.428890
-BYU,110,0.419244
-Rice,111,0.418338
-Ball State,112,0.418096
-Texas State,113,0.415806
-Louisiana Tech,114,0.414206
-Oregon State,115,0.411874
-North Carolina,116,0.409606
-Kansas,117,0.406563
-UNLV,118,0.401455
-Middle Tennessee,119,0.399856
-UTEP,120,0.390194
-San Jose State,121,0.385737
-East Carolina,122,0.372298
-Massachusetts,123,0.364286
-Nevada,124,0.346093
-Bowling Green,125,0.343561
-Charlotte,126,0.325535
-Georgia Southern,127,0.324992
-Baylor,128,0.318702
+Alabama,1,0.631553
+Wisconsin,2,0.630219
+Georgia,3,0.622232
+Penn State,4,0.607185
+UCF,5,0.606775
+Notre Dame,6,0.606773
+Ohio State,7,0.605958
+Clemson,8,0.605912
+Miami (FL),9,0.604286
+Oklahoma,10,0.599507
+Oklahoma State,11,0.599301
+TCU,12,0.592139
+Memphis,13,0.591591
+USC,14,0.590188
+Washington,15,0.586456
+Virginia Tech,16,0.585044
+Toledo,17,0.583425
+South Florida,18,0.580045
+Michigan State,19,0.575722
+Boise State,20,0.575013
+San Diego State,21,0.574752
+Michigan,22,0.574018
+Stanford,23,0.572963
+South Carolina,24,0.572600
+Washington State,25,0.571592
+Marshall,26,0.564488
+Mississippi State,27,0.563837
+North Carolina State,28,0.562159
+Iowa State,29,0.561736
+LSU,30,0.558711
+SMU,31,0.558597
+Navy,32,0.558092
+Kentucky,33,0.557871
+Auburn,34,0.557331
+Arizona,35,0.556808
+Troy,36,0.554296
+Northern Illinois,37,0.553024
+Army,38,0.550413
+Iowa,39,0.548957
+Ohio,40,0.546161
+Houston,41,0.543642
+Northwestern,42,0.542664
+Florida International,43,0.538668
+Colorado State,44,0.535756
+Arkansas State,45,0.535058
+Boston College,46,0.534253
+UTSA,47,0.532167
+Texas A&M,48,0.531636
+North Texas,49,0.529733
+Florida Atlantic,50,0.527685
+Wake Forest,51,0.527283
+Southern Miss,52,0.525516
+Wyoming,53,0.525198
+Western Michigan,54,0.524620
+West Virginia,55,0.523319
+Fresno State,56,0.522188
+Virginia,57,0.522080
+Appalachian State,58,0.520543
+UCLA,59,0.517315
+Arizona State,60,0.517208
+UAB,61,0.515202
+Nebraska,62,0.514951
+Oregon,63,0.514638
+Western Kentucky,64,0.514500
+Colorado,65,0.511833
+Texas,66,0.511150
+Akron,67,0.510914
+Georgia Tech,68,0.510669
+Louisville,69,0.509709
+Minnesota,70,0.506193
+Maryland,71,0.502415
+Florida,72,0.500428
+Syracuse,73,0.500246
+Texas Tech,74,0.499088
+Utah,75,0.495522
+Louisiana Tech,76,0.495227
+Central Michigan,77,0.492454
+Air Force,78,0.492088
+Kansas State,79,0.486850
+Purdue,80,0.483420
+California,81,0.482941
+Pittsburgh,82,0.482098
+Middle Tennessee,83,0.477454
+Utah State,84,0.476940
+Duke,85,0.474897
+Louisiana-Lafayette,86,0.473631
+New Mexico State,87,0.471414
+Louisiana-Monroe,88,0.470755
+Florida State,89,0.470170
+Arkansas,90,0.469545
+Tennessee,91,0.469098
+Tulane,92,0.468818
+Vanderbilt,93,0.467861
+Missouri,94,0.466506
+Indiana,95,0.466463
+Rutgers,96,0.464575
+Ole Miss,97,0.464337
+New Mexico,98,0.463329
+Temple,99,0.462290
+South Alabama,100,0.461132
+Connecticut,101,0.458165
+Hawaii,102,0.456451
+Idaho,103,0.456304
+Miami (OH),104,0.456257
+Illinois,105,0.451439
+Buffalo,106,0.448420
+Eastern Michigan,107,0.448321
+Georgia State,108,0.440088
+Cincinnati,109,0.438687
+Tulsa,110,0.437051
+Massachusetts,111,0.435185
+Kent State,112,0.434476
+Ball State,113,0.432889
+Old Dominion,114,0.430576
+Texas State,115,0.426351
+Rice,116,0.416685
+BYU,117,0.415595
+Oregon State,118,0.408689
+North Carolina,119,0.406882
+Kansas,120,0.403277
+UNLV,121,0.399423
+UTEP,122,0.389196
+San Jose State,123,0.382713
+East Carolina,124,0.371285
+Nevada,125,0.345065
+Bowling Green,126,0.344702
+Charlotte,127,0.340781
+Coastal Carolina,128,0.337017
+Georgia Southern,129,0.325177
+Baylor,130,0.316842
