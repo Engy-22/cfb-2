@@ -399,10 +399,10 @@ void output(multimap<double,string> &score_avg_sorted, string outfile, string cs
 	/* CSV Output */
 	oFS.open(csvfile.c_str());
 	oFS << fixed << setprecision(6);
-	oFS << "team,rank,score" << endl;
+	oFS << "rank,team,record,score" << endl;
 	for (int i = team.size()-1; i >= 0; i--)
 	{
-		oFS << pretty_name[team[i]] << "," << team.size()-i << "," << score[i] << endl;
+		oFS << team.size()-i << "," << pretty_name[team[i]] << "," << wins[team[i]] << "-" << losses[team[i]] << "," << score[i] << endl;
 	}
 	oFS.close();
 	cout << "Ranking completed and stored in " << csvfile << "." << endl;
