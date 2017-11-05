@@ -1,131 +1,131 @@
-team,rank,score
-Alabama,1,0.631553
-Wisconsin,2,0.630219
-Georgia,3,0.622232
-Penn State,4,0.607185
-UCF,5,0.606775
-Notre Dame,6,0.606773
-Ohio State,7,0.605958
-Clemson,8,0.605912
-Miami (FL),9,0.604286
-Oklahoma,10,0.599507
-Oklahoma State,11,0.599301
-TCU,12,0.592139
-Memphis,13,0.591591
-USC,14,0.590188
-Washington,15,0.586456
-Virginia Tech,16,0.585044
-Toledo,17,0.583425
-South Florida,18,0.580045
-Michigan State,19,0.575722
-Boise State,20,0.575013
-San Diego State,21,0.574752
-Michigan,22,0.574018
-Stanford,23,0.572963
-South Carolina,24,0.572600
-Washington State,25,0.571592
-Marshall,26,0.564488
-Mississippi State,27,0.563837
-North Carolina State,28,0.562159
-Iowa State,29,0.561736
-LSU,30,0.558711
-SMU,31,0.558597
-Navy,32,0.558092
-Kentucky,33,0.557871
-Auburn,34,0.557331
-Arizona,35,0.556808
-Troy,36,0.554296
-Northern Illinois,37,0.553024
-Army,38,0.550413
-Iowa,39,0.548957
-Ohio,40,0.546161
-Houston,41,0.543642
-Northwestern,42,0.542664
-Florida International,43,0.538668
-Colorado State,44,0.535756
-Arkansas State,45,0.535058
-Boston College,46,0.534253
-UTSA,47,0.532167
-Texas A&M,48,0.531636
-North Texas,49,0.529733
-Florida Atlantic,50,0.527685
-Wake Forest,51,0.527283
-Southern Miss,52,0.525516
-Wyoming,53,0.525198
-Western Michigan,54,0.524620
-West Virginia,55,0.523319
-Fresno State,56,0.522188
-Virginia,57,0.522080
-Appalachian State,58,0.520543
-UCLA,59,0.517315
-Arizona State,60,0.517208
-UAB,61,0.515202
-Nebraska,62,0.514951
-Oregon,63,0.514638
-Western Kentucky,64,0.514500
-Colorado,65,0.511833
-Texas,66,0.511150
-Akron,67,0.510914
-Georgia Tech,68,0.510669
-Louisville,69,0.509709
-Minnesota,70,0.506193
-Maryland,71,0.502415
-Florida,72,0.500428
-Syracuse,73,0.500246
-Texas Tech,74,0.499088
-Utah,75,0.495522
-Louisiana Tech,76,0.495227
-Central Michigan,77,0.492454
-Air Force,78,0.492088
-Kansas State,79,0.486850
-Purdue,80,0.483420
-California,81,0.482941
-Pittsburgh,82,0.482098
-Middle Tennessee,83,0.477454
-Utah State,84,0.476940
-Duke,85,0.474897
-Louisiana-Lafayette,86,0.473631
-New Mexico State,87,0.471414
-Louisiana-Monroe,88,0.470755
-Florida State,89,0.470170
-Arkansas,90,0.469545
-Tennessee,91,0.469098
-Tulane,92,0.468818
-Vanderbilt,93,0.467861
-Missouri,94,0.466506
-Indiana,95,0.466463
-Rutgers,96,0.464575
-Ole Miss,97,0.464337
-New Mexico,98,0.463329
-Temple,99,0.462290
-South Alabama,100,0.461132
-Connecticut,101,0.458165
-Hawaii,102,0.456451
-Idaho,103,0.456304
-Miami (OH),104,0.456257
-Illinois,105,0.451439
-Buffalo,106,0.448420
-Eastern Michigan,107,0.448321
-Georgia State,108,0.440088
-Cincinnati,109,0.438687
-Tulsa,110,0.437051
-Massachusetts,111,0.435185
-Kent State,112,0.434476
-Ball State,113,0.432889
-Old Dominion,114,0.430576
-Texas State,115,0.426351
-Rice,116,0.416685
-BYU,117,0.415595
-Oregon State,118,0.408689
-North Carolina,119,0.406882
-Kansas,120,0.403277
-UNLV,121,0.399423
-UTEP,122,0.389196
-San Jose State,123,0.382713
-East Carolina,124,0.371285
-Nevada,125,0.345065
-Bowling Green,126,0.344702
-Charlotte,127,0.340781
-Coastal Carolina,128,0.337017
-Georgia Southern,129,0.325177
-Baylor,130,0.316842
+rank,team,record,score
+1,Alabama,9-0,0.632945
+2,Wisconsin,9-0,0.628933
+3,Georgia,9-0,0.623198
+4,Notre Dame,8-1,0.610198
+5,UCF,8-0,0.609453
+6,Miami (FL),8-0,0.608820
+7,Clemson,8-1,0.607357
+8,Oklahoma,8-1,0.602627
+9,USC,8-2,0.595639
+10,TCU,8-1,0.594472
+11,Memphis,8-1,0.593387
+12,Washington,8-1,0.591776
+13,Toledo,8-1,0.589080
+14,South Florida,8-1,0.584876
+15,Penn State,7-2,0.584232
+16,Michigan State,7-2,0.582822
+17,Ohio State,7-2,0.581993
+18,Boise State,7-2,0.578693
+19,Michigan,7-2,0.578616
+20,San Diego State,8-2,0.577655
+21,Washington State,8-2,0.577503
+22,Oklahoma State,7-2,0.577309
+23,Mississippi State,7-2,0.568258
+24,Auburn,7-2,0.567051
+25,Virginia Tech,7-2,0.565786
+26,Troy,7-2,0.561991
+27,Army,7-2,0.559371
+28,Iowa,6-3,0.559142
+29,Ohio,7-2,0.555706
+30,South Carolina,6-3,0.553495
+31,Stanford,6-3,0.553400
+32,Northwestern,6-3,0.551911
+33,Houston,6-3,0.549687
+34,Florida International,6-2,0.549651
+35,Marshall,6-3,0.545195
+36,North Carolina State,6-3,0.544258
+37,LSU,6-3,0.541926
+38,SMU,6-3,0.541818
+39,Iowa State,6-3,0.541518
+40,North Texas,6-3,0.540796
+41,Florida Atlantic,6-3,0.540742
+42,Arizona,6-3,0.539368
+43,Navy,5-3,0.538155
+44,Kentucky,6-3,0.537610
+45,Wyoming,6-3,0.537344
+46,Northern Illinois,6-3,0.535616
+47,West Virginia,6-3,0.535348
+48,Virginia,6-3,0.534818
+49,Fresno State,6-3,0.533016
+50,Arkansas State,5-2,0.531685
+51,Boston College,5-4,0.531589
+52,Arizona State,5-4,0.530074
+53,UAB,6-3,0.525876
+54,Colorado State,6-4,0.518845
+55,UTSA,5-3,0.516155
+56,Texas A&M,5-4,0.515484
+57,Wake Forest,5-4,0.514436
+58,Akron,5-4,0.509859
+59,Louisville,5-4,0.509561
+60,Utah,5-4,0.509540
+61,Western Michigan,5-4,0.508380
+62,Southern Miss,5-4,0.508259
+63,Central Michigan,5-4,0.507688
+64,Kansas State,5-4,0.503737
+65,Appalachian State,5-4,0.503548
+66,Oregon,5-5,0.502148
+67,Nebraska,4-5,0.501033
+68,UCLA,4-5,0.500072
+69,Purdue,4-5,0.498949
+70,Western Kentucky,5-4,0.498885
+71,Texas,4-5,0.498185
+72,California,5-5,0.497678
+73,Georgia Tech,4-4,0.497605
+74,Colorado,5-5,0.497271
+75,Minnesota,4-5,0.494105
+76,Utah State,5-5,0.493715
+77,Middle Tennessee,4-5,0.492966
+78,Louisiana-Lafayette,4-4,0.490318
+79,Louisiana-Monroe,4-5,0.488263
+80,New Mexico State,4-5,0.488067
+81,Florida State,3-5,0.487509
+82,Vanderbilt,4-5,0.487159
+83,Syracuse,4-5,0.487126
+84,Maryland,4-5,0.487039
+85,Tennessee,4-5,0.486623
+86,Texas Tech,4-5,0.486113
+87,Florida,3-5,0.485964
+88,Ole Miss,4-5,0.485255
+89,Arkansas,4-5,0.484455
+90,Missouri,4-5,0.483793
+91,Rutgers,4-5,0.483379
+92,Pittsburgh,4-5,0.483301
+93,Temple,4-5,0.482774
+94,Louisiana Tech,4-5,0.482187
+95,Duke,4-5,0.479825
+96,Air Force,4-5,0.479800
+97,Eastern Michigan,3-6,0.467446
+98,Indiana,3-6,0.460056
+99,Tulane,3-6,0.459454
+100,Cincinnati,3-6,0.458809
+101,New Mexico,3-6,0.454448
+102,Buffalo,3-6,0.453047
+103,Georgia State,5-3,0.452893
+104,South Alabama,3-6,0.452457
+105,Connecticut,3-6,0.452051
+106,Miami (OH),3-6,0.450989
+107,Idaho,3-6,0.450217
+108,Old Dominion,3-6,0.449944
+109,Hawaii,3-6,0.445732
+110,Illinois,2-7,0.443124
+111,Tulsa,2-8,0.432493
+112,Massachusetts,2-7,0.431739
+113,Ball State,2-7,0.426512
+114,Kent State,2-7,0.425146
+115,Texas State,2-7,0.421507
+116,UNLV,4-5,0.419692
+117,North Carolina,1-8,0.417161
+118,Rice,1-8,0.413880
+119,BYU,2-8,0.413761
+120,Oregon State,1-8,0.405238
+121,Kansas,1-8,0.398511
+122,UTEP,0-9,0.388912
+123,San Jose State,1-9,0.385236
+124,East Carolina,2-7,0.370005
+125,Bowling Green,2-7,0.369387
+126,Nevada,1-8,0.347227
+127,Baylor,1-8,0.343623
+128,Charlotte,1-8,0.342541
+129,Coastal Carolina,1-8,0.338064
+130,Georgia Southern,0-8,0.327858
