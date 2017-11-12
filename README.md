@@ -17,34 +17,34 @@ compile the program and how the algorithm works.
 
 ## Current rankings
 
-After 10 weeks of play in the 2017-2018 season:
+After 11 weeks of play in the 2017-2018 season:
 
 [Full rankings](output/rankings.csv)
 
  **Rank** |  |**Team**                  | **Record** | **Score**  
 ----------|--|---------------------------|------------|------------
-1         | ![Alabama](logos/alabama.png) | Alabama                   |  9-0       |   0.632945
-2         | ![Wisconsin](logos/wisconsin.png) | Wisconsin                 |  9-0       |   0.628933
-3         | ![Georgia](logos/georgia.png) | Georgia                   |  9-0       |   0.623198
-4         | ![Notre Dame](logos/notre-dame.png) | Notre Dame                |  8-1       |   0.610198
-5         | ![UCF](logos/ucf.png) | UCF                       |  8-0       |   0.609453
-6         | ![Miami (FL)](logos/miami-fl.png) | Miami (FL)                |  8-0       |   0.608820
-7         | ![Clemson](logos/clemson.png) | Clemson                   |  8-1       |   0.607357
-8         | ![Oklahoma](logos/oklahoma.png) | Oklahoma                  |  8-1       |   0.602627
-9         | ![USC](logos/southern-california.png) | USC                       |  8-2       |   0.595639
-10        | ![TCU](logos/tcu.png) | TCU                       |  8-1       |   0.594472
-11        | ![Memphis](logos/memphis.png) | Memphis                   |  8-1       |   0.593387
-12        | ![Washington](logos/washington.png) | Washington                |  8-1       |   0.591776
-13        | ![Toledo](logos/toledo.png) | Toledo                    |  8-1       |   0.589080
-14        | ![South Florida](logos/south-fla.png) | South Florida             |  8-1       |   0.584876
-15        | ![Penn State](logos/penn-st.png) | Penn State                |  7-2       |   0.584232
-16        | ![Michigan State](logos/michigan-st.png) | Michigan State            |  7-2       |   0.582822
-17        | ![Ohio State](logos/ohio-st.png) | Ohio State                |  7-2       |   0.581993
-18        | ![Boise State](logos/boise-st.png) | Boise State               |  7-2       |   0.578693
-19        | ![Michigan](logos/michigan.png) | Michigan                  |  7-2       |   0.578616
-20        | ![San Diego State](logos/san-diego-st.png) | San Diego State           |  8-2       |   0.577655
-21        | ![Washington State](logos/washington-st.png) | Washington State          |  8-2       |   0.577503
-22        | ![Oklahoma State](logos/oklahoma-st.png) | Oklahoma State            |  7-2       |   0.577309
-23        | ![Mississippi State](logos/mississippi-st.png) | Mississippi State         |  7-2       |   0.568258
-24        | ![Auburn](logos/auburn.png) | Auburn                    |  7-2       |   0.567051
-25        | ![Virginia Tech](logos/virginia-tech.png) | Virginia Tech             |  7-2       |   0.565786
+1         | ![Alabama](logos/alabama.png) | Alabama                   | 10-0       |   0.631117
+2         | ![Wisconsin](logos/wisconsin.png) | Wisconsin                 | 10-0       |   0.628449
+3         | ![Miami (FL)](logos/miami-fl.png) | Miami (FL)                |  9-0       |   0.609664
+4         | ![Clemson](logos/clemson.png) | Clemson                   |  9-1       |   0.608251
+5         | ![UCF](logos/ucf.png) | UCF                       |  9-0       |   0.608147
+6         | ![Oklahoma](logos/oklahoma.png) | Oklahoma                  |  9-1       |   0.606280
+7         | ![Georgia](logos/georgia.png) | Georgia                   |  9-1       |   0.598680
+8         | ![USC](logos/southern-california.png) | USC                       |  9-2       |   0.596910
+9         | ![Notre Dame](logos/notre-dame.png) | Notre Dame                |  8-2       |   0.588513
+10        | ![Penn State](logos/penn-st.png) | Penn State                |  8-2       |   0.587236
+11        | ![Ohio State](logos/ohio-st.png) | Ohio State                |  8-2       |   0.586727
+12        | ![Memphis](logos/memphis.png) | Memphis                   |  8-1       |   0.585124
+13        | ![Boise State](logos/boise-st.png) | Boise State               |  8-2       |   0.583462
+14        | ![Michigan](logos/michigan.png) | Michigan                  |  8-2       |   0.582554
+15        | ![Oklahoma State](logos/oklahoma-st.png) | Oklahoma State            |  8-2       |   0.582454
+16        | ![Washington State](logos/washington-st.png) | Washington State          |  9-2       |   0.582083
+17        | ![South Florida](logos/south-fla.png) | South Florida             |  8-1       |   0.577032
+18        | ![TCU](logos/tcu.png) | TCU                       |  8-2       |   0.574353
+19        | ![Auburn](logos/auburn.png) | Auburn                    |  8-2       |   0.574293
+20        | ![Washington](logos/washington.png) | Washington                |  8-2       |   0.571059
+21        | ![San Diego State](logos/san-diego-st.png) | San Diego State           |  8-2       |   0.570475
+22        | ![Toledo](logos/toledo.png) | Toledo                    |  8-2       |   0.569525
+23        | ![Troy](logos/troy.png) | Troy                      |  8-2       |   0.566354
+24        | ![Army](logos/army.png) | Army                      |  8-2       |   0.566037
+25        | ![Michigan State](logos/michigan-st.png) | Michigan State            |  7-3       |   0.564476
